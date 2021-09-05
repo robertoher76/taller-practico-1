@@ -1,0 +1,28 @@
+body{
+    background-color:  #94e0af;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header h1{
+    color: #F8333C;
+}
+ header h2, .contenido h2{
+     color: #D90812;
+ }
+
+ nav ul li{
+     color: green;
+ }
+
+ nav ul li a{
+     color: blue;
+ }
+
+ .contenido{
+     color: blue;
+ }
+
+ .contenido i{
+     background-color: black;
+     color: white;
+ }

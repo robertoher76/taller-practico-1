@@ -1,0 +1,25 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.icon{
+    text-align: center;
+    height: auto;
+    width: 90%;
+    padding: 10px;
+    margin: auto;
+    border-bottom: 1px solid blue;
+}
+
+.icon img{
+    height: 50px;
+    width: auto;
+}
+
+.ico1{
+    float: left;
+}
+
+.ico2{
+    float: right;
+}

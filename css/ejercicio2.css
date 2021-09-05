@@ -1,0 +1,29 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+}
+
+header{
+    text-align: center;
+}
+
+aside{
+    width: 30%;
+    height: auto;
+    float: left;
+}
+
+section{
+    width: 70%;
+    height: auto;
+    float: right;
+}
+
+.col div{
+    width: 30%;
+    height: auto;
+    margin-right: auto;
+}
+
+.col{
+    display: flex;
+}
